@@ -1,2 +1,2 @@
 # openshift-demo
-test6
+test7
